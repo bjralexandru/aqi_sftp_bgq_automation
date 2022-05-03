@@ -8,7 +8,7 @@ now            = datetime.datetime.now()
 time_component = now.strftime('Hour-%H %d-%B-%Y')
 
 ''' Stored all paths in a separate file '''
-credentials = '/Users/alexandrubujor/Public/Bujor/AQI-Project/credentials.txt'
+credentials = '~path/credentials.txt'
 
 with open(credentials, "r") as f:
             for line in f:
