@@ -5,7 +5,7 @@ import os
 
 
 # Create Google credentials from service account json file
-service_account_json = r"C:\Users\bjr\Documents\AQI-Project\new_aqi_api_key.json"
+service_account_json = "/path/toJSON/key"
  
 credentials = service_account.Credentials.from_service_account_file(service_account_json,)
 
