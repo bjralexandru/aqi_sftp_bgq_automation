@@ -9,8 +9,8 @@ def main():
     # Retrieve data from website through their API
     # See details of API at:- https://aqicn.org/api/
     base_url = "https://api.waqi.info"
-    api_key = "/Users/alexandrubujor/Public/Bujor/AQI-Project/api_key"
-    final_csv_path = "/Users/alexandrubujor/Public/Bujor/AQI-Project/data_landing_folder/aqi.csv"
+    api_key = "~path/"
+    final_csv_path = "~path/aqi.csv"
     # Saved token to a file
     with open(api_key) as f:
             contents = f.readlines()
