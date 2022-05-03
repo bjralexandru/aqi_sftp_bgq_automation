@@ -4,7 +4,7 @@ import os
 def main():
 
     # Keep this file safe! 
-    credentials = '/Users/alexandrubujor/Public/Bujor/AQI-Project/credentials.txt'
+    credentials = '~path/credentials.txt'
     
     # Load credentials from safe file.
     
