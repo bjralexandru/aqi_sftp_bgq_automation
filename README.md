@@ -1,6 +1,6 @@
 <h1> Using Cron Jobs and Bigquery </h1>
 
-[![Using - MacOS](https://img.shields.io/badge/Using-MacOS-white?style=for-the-badge&logo=Apple&logoColor=black)](https://) [![Using - Windows](https://img.shields.io/badge/Using-Windows-lightblue?style=for-the-badge&logo=Windows&logoColor=black)](https://)
+[![Made with - Python](https://img.shields.io/badge/Made_with-Python-2ea44f?style=for-the-badge&logo=Python&logoColor=black)](https://www.python.org/) [![Using - MacOS](https://img.shields.io/badge/Using-MacOS-white?style=for-the-badge&logo=Apple&logoColor=black)](https://) [![Using - Windows](https://img.shields.io/badge/Using-Windows-lightblue?style=for-the-badge&logo=Windows&logoColor=black)](https://)
 
 # 🏃 TL;DR:
 
